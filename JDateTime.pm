@@ -1,9 +1,4 @@
-##############################################################################
-# COPYRIGHT NOTICE                                                           #
-# Copyright 1998-2002 IvyMedia  All Rights Reserved.                         #
-#                                                                            #
-# Selling the code for this program is expressly forbidden.                  #
-##############################################################################
+
 package JDateTime;
 
 use strict;
